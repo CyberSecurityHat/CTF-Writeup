@@ -2,7 +2,7 @@
 
 Encoded data : 5a6d78685a3373334e6a4a6b596d5134596a46684d6a457a4e545a68596a51304e474d7a4e6a4a6b5a475932597a426a4e58303d
 
-This is easy crypto challenge.<br>
+This is an easy crypto challenge.<br>
 So I just use CyberChef.
 
 <br>
