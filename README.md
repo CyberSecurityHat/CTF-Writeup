@@ -3,7 +3,7 @@
 ### Tree
 
 **CTF** <br>
-/ctf_name <br>
+/ctf_name/ <br>
 Date the CTF was held (in UTC) <br>
 Form : YYYY-MM-DD_(CTF name)
 
