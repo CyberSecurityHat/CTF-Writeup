@@ -1,4 +1,4 @@
-# SQLi1
+# SQLi101
 
 ### try : admin'or '1' = '1
 
