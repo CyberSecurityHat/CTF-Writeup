@@ -2,7 +2,7 @@
 
 ### try : admin'or '1' = '1
 
-You cannot use or in SQL statements. (Fail! Don't user 'OR'! No Hack!!)
+I cannot use 'or' in SQL statements. (Fail! Don't user 'OR'! No Hack!!)
 
 ### try : admin' or '1'='1 --
 
